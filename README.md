@@ -3,7 +3,6 @@ education course on database
 
 Branches:
 - master
-- default
 - Capstone_database_project
 - DB_Lesson1
 - DataBase_Lesson2
